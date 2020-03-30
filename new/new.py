@@ -1,4 +1,5 @@
 import sys
+import requests
 import os
 import math
 
@@ -18,4 +19,5 @@ print(greet("World"))
 name = input('What is your name? \n')
 print(customGreet(name))
 
-
+r = requests.get('https://google.com')
+print(r.status_code)
