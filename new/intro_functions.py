@@ -43,6 +43,6 @@ info = {'name': 'John', 'age': 23}
 student_info(*courses, **info)
 
 def new_func():
-  """Called a doc string - used to describe functions."""
+  """This is a doc string. E.g. VERB X and RETURN Y"""
   pass
 
