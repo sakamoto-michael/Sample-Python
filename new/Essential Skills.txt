@@ -1,0 +1,30 @@
+5 Essential Skills for a Well Rounded Programmer
+
+1. Learning Version Control (GIT)
+
+- GIT is an extremely popular source control platform.
+- You can view changes to code over time
+    - Can revert back to old version in case of emergency
+
+2. Databases (SQL)
+
+- Likely will need to know how to interact with the DB
+- Know how to correctly query
+- No-SQL DBs are also popular. Try the basics of them to see how they work / how you like them.
+
+3. Command Line (Terminal)
+- Able to use the command line to do various useful tasks
+- May need to use this when connecting to remote servers
+
+4. Unit Testing
+- Be able to test your code***
+    - Be able to write tests
+- Continuous intergration / delivery
+    - Team has a central repo
+    - Be notified if any changes break anything
+    - Incremental changes - easier to pinpoint the sources of potential errors
+
+5. Learn Multiple Languages
+- Gain a better understanding of computer science on a fundamental level
+- Not just language syntax, the logic behind designs
+- Learn how to solve problems, not just syntax
